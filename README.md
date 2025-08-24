@@ -2,7 +2,7 @@
    LandingPro: Maestría Responsiva 01 al Descubierto 🌐
 </h1>
 
-¡Bienvenido al proyecto ResponsiveProject02 - Modern Art Gallery!
+¡Bienvenido al proyecto ResponsiveProject01 - Modern Art Gallery!
 
 Este proyecto se centra en crear un sitio web responsive para una galería de arte moderno. La página se adapta a tres tamaños de pantalla: móvil (414px), tablet (768px) y desktop (1200px), garantizando una experiencia visual óptima en cada dispositivo.
 
