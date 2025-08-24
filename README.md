@@ -1,8 +1,8 @@
 <h1 align="center" style="color: #0366d6;">
-   LandingPro: Maestría Responsiva 02 al Descubierto 🌐
+   LandingPro: Maestría Responsiva 01 al Descubierto 🌐
 </h1>
 
-¡Bienvenido al proyecto ResponsiveProject02 - Modern Art Gallery!
+¡Bienvenido al proyecto ResponsiveProject01 - Modern Art Gallery!
 
 Este proyecto se centra en crear un sitio web responsive para una galería de arte moderno. La página se adapta a tres tamaños de pantalla: móvil (414px), tablet (768px) y desktop (1200px), garantizando una experiencia visual óptima en cada dispositivo.
 
@@ -31,20 +31,14 @@ Este proyecto se centra en crear un sitio web responsive para una galería de ar
 
 ## Cómo Usar 🛠️
 
-1. Clona este repositorio: `git clone https://github.com/Ferran226/ResponsiveProject02.git`
+1. Clona este repositorio: `git clone https://github.com/Lucy-nube/Css-Microsite01-Modernartgallery-responsive-.git`
 2. Abre el archivo `index.html` en tu navegador.
 
 ¡Y eso es todo! Ahora puedes explorar la galería de arte moderno en diferentes dispositivos.
 
 ## Trabajo Freelance 💼
 
----
-
-<div align="center">
-  <img src="desde0.gif" alt="vista previa" width="55%"/>
-</div>
-
----
+![IMG-1-diseno-web](https://github.com/user-attachments/assets/93e7ddfd-8416-49ba-8838-0ea6751486ca)
 
 Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
 <br>
