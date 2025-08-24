@@ -31,7 +31,7 @@ Este proyecto se centra en crear un sitio web responsive para una galería de ar
 
 ## Cómo Usar 🛠️
 
-1. Clona este repositorio: `git clone https://github.com/Ferran226/ResponsiveProject02.git`
+1. Clona este repositorio: `git clone https://github.com/Lucy-nube/Css-Microsite01-Modernartgallery-responsive-.git`
 2. Abre el archivo `index.html` en tu navegador.
 
 ¡Y eso es todo! Ahora puedes explorar la galería de arte moderno en diferentes dispositivos.
